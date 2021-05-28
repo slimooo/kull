@@ -1,12 +1,1 @@
-# Site settings
-title: Repo Name
-email: jack@kack.fr
-author: John Otander
-description: "Repo description"
-baseurl: "/kull"
-url: "https://slimooo.github.io"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 3
+remote_theme: chesterhow/tale
