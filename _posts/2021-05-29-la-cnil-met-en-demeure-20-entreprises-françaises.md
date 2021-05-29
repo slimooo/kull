@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "La CNIL met en demeure 20 entreprises françaises!"
+title:  "Les alternatives à Google Analytics conformes au RGPD"
 author: "Sam"
-tags: données personnelles
+tags: RGPD
 ---
 
-La CNIL vient de publier un article sur sa récente [décision de mettre en demeure 20 sites français](https://www.cnil.fr/fr/cookies-une-vingtaine-organismes-mis-en-demeure) parmi les plus visités car ils ne respectaient pas les [recommandations](https://www.cnil.fr/sites/default/files/atoms/files/recommandation-cookies-et-autres-traceurs.pdf) qu'elle avait formulées sur l'utilisation des cookies et traceurs.
+La CNIL a listé les outils de mesures d'audience conformes à [ses recommandations](https://www.cnil.fr/sites/default/files/atoms/files/recommandation-cookies-et-autres-traceurs.pdf) sur les cookies et autres traceurs.
 
-Elle leur reproche de suivre les visiteurs de leurs sites sans les informer préalablement de l'utilisation de moyens de tracing, et sans collecter un consentement explicite.
+Pour arriver à cette liste, la CNIL a crée un programme d'évaluation des prestataires de services proposant des solutions analytics. L'objectif est de promouvoir des [alternatives à Google Analytics conformes au RGPD](https://www.cnil.fr/fr/solutions-de-mesure-daudience-exemptees-de-consentement-la-cnil-lance-un-programme-devaluation). Toutes les solutions identifiées sont exemptées de consentement, c'est à dire qu'un éditeur de site internet n'a pas l'obligation d'afficher un bandeau cookie s'il utilise des cookies uniquement pour une finalité technique (affichage site, langues, authentification...) ou pour une finalité de mesure d'audience avec une solution qualifiée par la CNIL.
 
-Et ce n'est pas faute de les avoir prévenus. La CNIL a la même position sur ces sujets depuis plusieurs années et avant même l'entrée en vigueur du RGPD. Depuis mai 2018 elle n'a pas pris de mesures coercitives sur ces sujets. Ce n'est qu'en septembre 2020 qu'elle décidé d'adopter des recommandations qui devaient appliquées avant le 31 avril.
+Pour être qualifiés 
 
-Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions risquent d'être adoptées.
