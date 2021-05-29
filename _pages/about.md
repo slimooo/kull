@@ -11,4 +11,5 @@ kull est simplement une revue de presse de l'actualité de la conformité régle
 - Cybersécurité / sécurité informatique
 - Sapin 2 / loi lutte anticorruption
 
-Vous avez du contenu à nous sugérrer ? Vous pouvez nous envoyer un mail à bonjour@kull.fr
+Vous avez du contenu à nous sugérrer ? Vous pouvez nous envoyer un mail à [bonjour@kull.fr](mailto:bonjour@kull.fr)
+
