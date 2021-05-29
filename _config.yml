@@ -1,16 +1,11 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://slimooo.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+title:          Kull Compliance
+description:    "Revue de presse de la conformité"
+url:            "https://kull.fr"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Sam
 
 # Build settings
 markdown:       kramdown
