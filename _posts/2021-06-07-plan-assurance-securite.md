@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comment remplir le registre des traitements de la CNIL ?"
+title:  "Qu'est ce que la Politique d'Assurance Sécurité ?"
 author: "Sam"
 tags: cybersecurity
 ---
