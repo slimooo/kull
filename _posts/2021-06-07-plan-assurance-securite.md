@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Qu'est ce que la Politique d'Assurance Sécurité ?"
+title:  "Qu'est ce que le Plan d'Assurance Sécurité ?"
 author: "Sam"
-tags: cybersecurity
+tags: cybersecurite
 ---
 
 Pour différentes raisons tant techniques que organisationnelles, une entreprise ou une structure publique peut choisir de confier la gestion de son système d’information à une société extérieure. Cette externalisation, aussi appelée infogérance, ne doit en revanche pas compromettre la sécurité du système et des données traitées.
