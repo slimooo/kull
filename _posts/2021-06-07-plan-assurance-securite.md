@@ -5,15 +5,7 @@ author: "Sam"
 tags: cybersecurite
 ---
 
-Pour différentes raisons tant techniques que organisationnelles, une entreprise ou une structure publique peut choisir de confier la gestion de son système d’information à une société extérieure. Cette externalisation, aussi appelée infogérance, ne doit en revanche pas compromettre la sécurité du système et des données traitées.
-Pour s’en assurer, le maître d’ouvrage peut dès lors demander au futur prestataire un document garantissant la sécurité de ce système, aussi appelé le Plan d’Assurance Sécurité (PAS).
- 
-# Qu’est-ce que le PAS ?
-Le PAS est donc un document contractuel résultant d’un processus d’analyse de risques. En amont de l’appel d’offre, le titulaire de la commande doit d’abord identifier les risques possibles liés à l’externalisation du système, l’[ANSSI recense notamment trois grands domaines de risques](https://www.ssi.gouv.fr/guide/externalisation-et-securite-des-systemes-dinformation-un-guide-pour-maitriser-les-risques/).
-
-Une fois les risques identifiés, il reste à la structure titulaire d’établir des objectifs afin de rendre ces risques acceptables. Pour mener enfin ces objectifs, le titulaire expose ses exigences dans le cahier des charges, permettant aux candidats de présenter une prestation plus personnalisée, à travers le PAS.
-
-A l'image de la [rédaction d'une PSSI](https://indatable.com/redaction-dune-pssi/), rédigé par le responsable désigné par le prestataire, décrit la mise en œuvre des mesures qu’il souhaite mettre en œuvre afin de répondre aux objectifs fixés par le titulaire en termes de sécurité. Ce document fait office de garantie dans le service d’externalisation, afin de minimiser les risques liés à l’infogérance.
+uvre des mesures qu’il souhaite mettre en œuvre afin de répondre aux objectifs fixés par le titulaire en termes de sécurité. Ce document fait office de garantie dans le service d’externalisation, afin de minimiser les risques liés à l’infogérance.
 
 Le PAS est un cadre de réponse imposé par le donneur d’ordre, mais permet aux candidats de mettre en avant leurs compétences quant au respect des exigences du titulaire. Les candidats décrivent donc toutes les dispositions qu’ils assureront, de l’opération d’externalisation à la fin du contrat. Cette procédure détaillée permet au futur maître d’œuvre de proposer un service idoine aux attentes du maître d’ouvrage.
  
