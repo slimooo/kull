@@ -5,9 +5,9 @@ author: "Sam"
 tags: cybersecurite
 ---
 
-uvre des mesures qu’il souhaite mettre en œuvre afin de répondre aux objectifs fixés par le titulaire en termes de sécurité. Ce document fait office de garantie dans le service d’externalisation, afin de minimiser les risques liés à l’infogérance.
+Pour différentes raisons tant techniques que organisationnelles, une entreprise ou une structure publique peut choisir de confier la gestion de son système d’information à une société extérieure. Cette externalisation, aussi appelée infogérance, ne doit en revanche pas compromettre la sécurité du système et des données traitées.
 
-Le PAS est un cadre de réponse imposé par le donneur d’ordre, mais permet aux candidats de mettre en avant leurs compétences quant au respect des exigences du titulaire. Les candidats décrivent donc toutes les dispositions qu’ils assureront, de l’opération d’externalisation à la fin du contrat. Cette procédure détaillée permet au futur maître d’œuvre de proposer un service idoine aux attentes du maître d’ouvrage.
+Pour s’en assurer, le maître d’ouvrage peut dès lors demander au futur prestataire un document garantissant la sécurité de ce système, aussi appelé le Plan d’Assurance Sécurité (PAS).
  
 # Pourquoi adopter un Plan d’Assurance sécurité ?
 Ce document agit en qualité de garant de la protection du système. L’infogérance est une pratique particulièrement intéressante dans le cas où le titulaire n’est pas assez compétent pour assurer un système d’information de qualité. Cependant le choix du prestataire doit se faire sur des garanties, permises par le PAS.
