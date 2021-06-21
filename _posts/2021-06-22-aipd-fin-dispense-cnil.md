@@ -5,8 +5,6 @@ author: "Sam"
 tags: RGPD
 ---
 
-AIPD : FIN DE LA DISPENSE
-
 Le 25 mai 2021, c’est l’anniversaire des trois ans de l’entrée en application du Règlement Général sur la Protection des Données (RGPD) mais c’est aussi la fin de la dispense d’obligation de réaliser une AIPD pour les traitements antérieurs au 25 mai 2018.
  
 L’AIPD ou PIA, outil permettant aux organismes de construire des traitements de données respectueux de la vie privée et de documenter leur conformité au RGPD n’est obligatoire que pour ceux susceptibles d’engendrer des risques élevés pour les droits et libertés des personnes concernées.
