@@ -28,6 +28,7 @@ Ensuite, la rédaction du PAS en lui-même est effectuée par les candidats rép
 Le prestataire d’externalisation doit alors rédiger une réponse organisée tout en veillant à répondre dans le cadre imposé par le titulaire. De la description des mesures du plan à l’organisation des travaux, le candidat doit détailler méthodologiquement les dispositifs mis en œuvre. 
 
 Il existe aussi des clauses à intégrer au PAS selon le contexte de l’externalisation, elle ne s’applique qu’à des situations particulières.
+![titre de](https://images.unsplash.com/photo-1580087256394-dc596e1c8f4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80)
 
 Dès lors que le prestataire est sélectionné, le PAS est validé par le titulaire et est annexé au contrat.
 
