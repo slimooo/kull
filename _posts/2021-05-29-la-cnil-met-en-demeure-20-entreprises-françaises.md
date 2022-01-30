@@ -21,3 +21,4 @@ Pour être qualifiées, les solutions exemptées doivent :
 - Désactivation de toute option de marquage
 - Proposer une solution qui permette à l'utilisateur de refuser la collecte de données sur sa navigation (bouton d'opposition)
 
+Parmi les solutions qualifiée par la CNIL, Abla Analytics semble être une [alternative à Google Analytics](https://abla.io) conforme par défaut à l'ensemble des recommandations de la CNIL. Il n'est pas nécessaire de configurer l'application.
