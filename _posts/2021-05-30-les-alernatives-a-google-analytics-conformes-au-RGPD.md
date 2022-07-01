@@ -47,26 +47,26 @@ Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions r
 - [https://indatable.com/?utm_source=Google&utm_medium=organic-search](https://indatable.com/?utm_source=Google&utm_medium=organic-search)
 - [https://indatable.com/?utm_source=Google](https://indatable.com/?utm_source=Google)
 
-## UTM source fb.com
-- [https://indatable.com/?utm_source=fb.com&utm_medium=sm](https://indatable.com/?utm_source=fb.com&utm_medium=sm)
-- [https://indatable.com/?utm_medium=sm&utm_source=fb.com](https://indatable.com/?utm_medium=sm&utm_source=fb.com)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=social](https://indatable.com/?utm_source=fb.com&utm_medium=social)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=social-network](https://indatable.com/?utm_source=fb.com&utm_medium=social-network)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=social-media](https://indatable.com/?utm_source=fb.com&utm_medium=social-media)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=direct](https://indatable.com/?utm_source=fb.com&utm_medium=direct)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=referral](https://indatable.com/?utm_source=fb.com&utm_medium=referral)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=email](https://indatable.com/?utm_source=fb.com&utm_medium=email)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=mail](https://indatable.com/?utm_source=fb.com&utm_medium=mail)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=newsletter](https://indatable.com/?utm_source=fb.com&utm_medium=newsletter)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=search](https://indatable.com/?utm_source=fb.com&utm_medium=search)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=organic](https://indatable.com/?utm_source=fb.com&utm_medium=organic)
-- [https://indatable.com/?utm_source=fb.com&utm_medium=organic-search](https://indatable.com/?utm_source=fb.com&utm_medium=organic-search)
-- [https://indatable.com/?utm_source=fb.com](https://indatable.com/?utm_source=fb.com)
+## UTM source t.co
+- [https://indatable.com/?utm_source=t.co&utm_medium=sm](https://indatable.com/?utm_source=t.co&utm_medium=sm)
+- [https://indatable.com/?utm_medium=sm&utm_source=t.co](https://indatable.com/?utm_medium=sm&utm_source=t.co)
+- [https://indatable.com/?utm_source=t.co&utm_medium=social](https://indatable.com/?utm_source=t.co&utm_medium=social)
+- [https://indatable.com/?utm_source=t.co&utm_medium=social-network](https://indatable.com/?utm_source=t.co&utm_medium=social-network)
+- [https://indatable.com/?utm_source=t.co&utm_medium=social-media](https://indatable.com/?utm_source=t.co&utm_medium=social-media)
+- [https://indatable.com/?utm_source=t.co&utm_medium=direct](https://indatable.com/?utm_source=t.co&utm_medium=direct)
+- [https://indatable.com/?utm_source=t.co&utm_medium=referral](https://indatable.com/?utm_source=t.co&utm_medium=referral)
+- [https://indatable.com/?utm_source=t.co&utm_medium=email](https://indatable.com/?utm_source=t.co&utm_medium=email)
+- [https://indatable.com/?utm_source=t.co&utm_medium=mail](https://indatable.com/?utm_source=t.co&utm_medium=mail)
+- [https://indatable.com/?utm_source=t.co&utm_medium=newsletter](https://indatable.com/?utm_source=t.co&utm_medium=newsletter)
+- [https://indatable.com/?utm_source=t.co&utm_medium=search](https://indatable.com/?utm_source=t.co&utm_medium=search)
+- [https://indatable.com/?utm_source=t.co&utm_medium=organic](https://indatable.com/?utm_source=t.co&utm_medium=organic)
+- [https://indatable.com/?utm_source=t.co&utm_medium=organic-search](https://indatable.com/?utm_source=t.co&utm_medium=organic-search)
+- [https://indatable.com/?utm_source=t.co](https://indatable.com/?utm_source=t.co)
 
 
 ## UTM source rien
 - [https://indatable.com/?utm_medium=sm](https://indatable.com/?utm_medium=sm)
-- [https://indatable.com/?utm_source=fb.com](https://indatable.com/?utm_source=fb.com)
+- [https://indatable.com/?utm_source=t.co](https://indatable.com/?utm_source=t.co)
 - [https://indatable.com/?utm_medium=social](https://indatable.com/?utm_medium=social)
 - [https://indatable.com/?utm_medium=social-network](https://indatable.com/?utm_medium=social-network)
 - [https://indatable.com/?utm_medium=social-media](https://indatable.com/?utm_medium=social-media)
@@ -79,3 +79,12 @@ Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions r
 - [https://indatable.com/?utm_medium=organic](https://indatable.com/?utm_medium=organic)
 - [https://indatable.com/?utm_medium=organic-search](https://indatable.com/?utm_medium=organic-search)
 
+
+- [https://indatable.com/?utm_source=t.co&utm_medium=error](https://indatable.com/?utm_source=t.co&utm_medium=error)
+- [https://indatable.com/?utm_source=t.co&utm_medium=null](https://indatable.com/?utm_source=t.co&utm_medium=null)
+- [https://indatable.com/?utm_source=error&utm_medium=social](https://indatable.com/?utm_source=error&utm_medium=social)
+- [https://indatable.com/?utm_source=null&utm_medium=social](https://indatable.com/?utm_source=null&utm_medium=social)
+- [https://indatable.com/?utm_source=null&utm_medium=null](https://indatable.com/?utm_source=null&utm_medium=null)
+
+-[https://indatable.com/?utm_source=t.co&utm_mediu=social](https://indatable.com/?utm_source=t.co&utm_mediu=social)
+-[https://indatable.com/?utm_sourc=t.co&utm_medium=social](https://indatable.com/?utm_sourc=t.co&utm_medium=social)
