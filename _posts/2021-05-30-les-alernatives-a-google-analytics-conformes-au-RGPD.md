@@ -96,4 +96,6 @@ Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions r
 <button id="clique" class="abla--click--clique--button--month--valeur" href="https://abla.io">Exemple</button>
 
 <button id="survol" class="abla--mouseover--survol--button--year--valeur" href="https://abla.io">Exemple</button> 
+
+<video controls class="abla--play--video--video--day"><source src="https://abla.io/assets/videos/webbackmachine.mp4" type="video/webm"></video>
  
