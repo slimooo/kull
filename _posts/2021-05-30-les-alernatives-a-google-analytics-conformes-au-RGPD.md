@@ -96,17 +96,17 @@ Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions r
 
 <button id="boutonsurvolmanuel" class="abla--mouseover--boutonsurvolmanuel--button--week--boutonsurvolmanuel">Exemple</button> 
 
-<a id="survollienmanuel" class="abla--mouseover--survollienmanuel--link--month--survollienmanuel2" href="https://kull.fr">kull</a> 
+<a id="survollienmanuel" class="abla--mouseover--survollienmanuel--link--month--kull" href="https://kull.fr">kull</a> 
 
-<a id="survollienmanuel" class="abla--mouseover--survollienmanuel--link--month--survollienmanuel2" href="https://indatable.com">indatable</a> 
+<a id="survollienmanuel" class="abla--mouseover--indatable--link--month--indatable" href="https://indatable.com/">indatable</a> 
 
 ### Clic
 
 <button id="boutonclicmanuel" class="abla--click--boutonclicmanuel--button--day--boutonclicmanuel">Exemple</button> 
 
-<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--cliclienmanuel" href="https://kull.fr">Exemple</a> 
+<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--kull" href="https://kull.fr">kull</a> 
 
-<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--cliclienmanuel" href="https://indatable.com">indatable</a> 
+<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--indatable" href="https://indatable.com/">indatable</a> 
 
 ### Formulaire
 
