@@ -89,34 +89,32 @@ Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions r
 -[https://indatable.com/?utm_source=t.co&utm_mediu=social](https://indatable.com/?utm_source=t.co&utm_mediu=social)
 -[https://indatable.com/?utm_sourc=t.co&utm_medium=social](https://indatable.com/?utm_sourc=t.co&utm_medium=social)
 
-<a id="survol" class="abla--mouseover--survol--link--day--valeur" href="https://abla.io">Survol lien</a> 
 
-<a id="clique" class="abla--click--clique--link--week--13" href="https://abla.io">Clic lien</a> 
-
-<button id="clique" class="abla--click--clique--button--month--valeur" href="https://abla.io">Clic bouton</button>
-
-<button id="survol" class="abla--mouseover--survol--button--year--valeur" href="https://abla.io">Survol bouton</button> 
-
-<video controls class="abla--play--video--video--day"><source src="https://abla.io/assets/videos/webbackmachine.mp4" type="video/webm"></video>
 
 
 ### Survol
 
 <button id="boutonsurvolmanuel" class="abla--mouseover--boutonsurvolmanuel--button--week--boutonsurvolmanuel">Exemple</button> 
 
-<a id="survollienmanuel" class="abla--mouseover--survollienmanuel--link--month--survollienmanuel2">Exemple</a> 
+<a id="survollienmanuel" class="abla--mouseover--survollienmanuel--link--month--survollienmanuel2" href="https://kull.fr">kull</a> 
+
+<a id="survollienmanuel" class="abla--mouseover--survollienmanuel--link--month--survollienmanuel2" href="https://indatable.com">indatable</a> 
 
 ### Clic
 
 <button id="boutonclicmanuel" class="abla--click--boutonclicmanuel--button--day--boutonclicmanuel">Exemple</button> 
 
-<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--cliclienmanuel">Exemple</a> 
+<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--cliclienmanuel" href="https://kull.fr">Exemple</a> 
+
+<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--cliclienmanuel" href="https://indatable.com">indatable</a> 
 
 ### Formulaire
 
 <form id="contact" class="abla--submit--contact--form--week">Exemple</form>
 
 <input id="modifchampmanuel" class="abla--change--modifchampmanuel--form--year--modifchampmanuel">Exemple</input> 
+
+### Vidéo
 
 <video controls class="abla--play--chat--video--day--mignon"><source src="https://abla.io/assets/videos/webbackmachine.mp4" type="video/webm"></video> 
  
