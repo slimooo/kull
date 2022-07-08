@@ -118,5 +118,5 @@ Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions r
 
 <input id="modifchampmanuel" class="abla--change--modifchampmanuel--form--year--modifchampmanuel">Exemple</input> 
 
-<video controls class="abla--play--chat--video--day--mignon"><source src="/media/cc0-videos/flower.webm" type="video/webm"></video> 
+<video controls class="abla--play--chat--video--day--mignon"><source src="https://abla.io/assets/videos/webbackmachine.mp4" type="video/webm"></video> 
  
