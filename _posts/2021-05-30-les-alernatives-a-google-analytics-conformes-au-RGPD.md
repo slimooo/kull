@@ -98,4 +98,25 @@ Si ces 20 entreprises n'agissent pas dans les meilleurs délais, des sanctions r
 <button id="survol" class="abla--mouseover--survol--button--year--valeur" href="https://abla.io">Survol bouton</button> 
 
 <video controls class="abla--play--video--video--day"><source src="https://abla.io/assets/videos/webbackmachine.mp4" type="video/webm"></video>
+
+
+### Survol
+
+<button id="boutonsurvolmanuel" class="abla--mouseover--boutonsurvolmanuel--button--week--boutonsurvolmanuel">Exemple</button> 
+
+<a id="survollienmanuel" class="abla--mouseover--survollienmanuel--link--month--survollienmanuel2">Exemple</a> 
+
+### Clic
+
+<button id="boutonclicmanuel" class="abla--click--boutonclicmanuel--button--day--boutonclicmanuel">Exemple</button> 
+
+<a id="cliclienmanuel" class="abla--click--cliclienmanuel--link--day--cliclienmanuel">Exemple</a> 
+
+### Formulaire
+
+<form id="contact" class="abla--submit--contact--form--week">Exemple</form>
+
+<input id="modifchampmanuel" class="abla--change--modifchampmanuel--form--year--modifchampmanuel">Exemple</input> 
+
+<video controls class="abla--play--chat--video--day--mignon"><source src="/media/cc0-videos/flower.webm" type="video/webm"></video> 
  
